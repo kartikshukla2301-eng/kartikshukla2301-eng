@@ -82,17 +82,21 @@ https://github.com/kartikshukla2301-eng/UltraAi-Chatbot
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikshukla2301-eng&show_icons=true&theme=tokyonight" />
-</p>
+🚀 Built AI Study Assistant
+🤖 Built Ultra AI Chatbot
+🌐 Deployed Projects on Vercel
+💻 Open Source Learner
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikshukla2301-eng&layout=compact&theme=tokyonight" />
-</p>
+## 🎯 Current Focus
 
----
+• Generative AI
+• Full Stack Development
+• FastAPI
+• Next.js
+• PostgreSQL
+• AI Agents
 
 ## 🔥 GitHub Streak
 
