@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Kartik Shukla</h1>
+<h1 align="center">Kartik Shukla</h1>
 
 <h3 align="center">
-AI & Full Stack Developer | Generative AI Enthusiast
+AI Developer • Full Stack Developer • Generative AI Enthusiast
 </h3>
 
 <p align="center">
-Building AI-powered applications and solving real-world problems 🚀
+Building AI-Powered Applications That Solve Real Problems 🚀
 </p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -85,9 +84,13 @@ https://github.com/kartikshukla2301-eng/UltraAi-Chatbot
 
 ## 📊 GitHub Stats
 
-![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikshukla2301-eng&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikshukla2301-eng&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikshukla2301-eng&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikshukla2301-eng&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
