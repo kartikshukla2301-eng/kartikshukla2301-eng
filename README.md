@@ -1,89 +1,116 @@
-# Hi 👋, I'm Kartik Shukla
+<h1 align="center">Hi 👋, I'm Kartik Shukla</h1>
 
-### AI & Full Stack Developer | Computer Science Engineering Student
+<h3 align="center">
+AI & Full Stack Developer | Generative AI Enthusiast
+</h3>
 
-🚀 Passionate about building AI-powered applications and solving real-world problems through technology.
+<p align="center">
+Building AI-powered applications and solving real-world problems 🚀
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student
+- 🎓 B.Tech Computer Science Engineering Student
 - 🤖 Exploring Generative AI & Machine Learning
 - 💻 Full Stack Developer
-- 🌱 Currently building AI-powered projects
-- 🔥 Interested in AI, Web Development and Cloud Technologies
+- 🌱 Currently building AI-powered applications
+- 🔥 Interested in AI, Web Development & Cloud Technologies
 - 📍 Lucknow, India
 - 📫 Reach me: kartikshukla2301@gmail.com
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 ### Languages
-Python • JavaScript • C++ • C
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Frontend
-React.js • HTML • CSS • Tailwind CSS
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
-Node.js • Express.js
-
-### Database
-MongoDB • SQL
+### Backend & Database
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools
-Git • GitHub • VS Code
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### AI & Cloud
-Generative AI • AWS Basics
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS_Basics-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### AI Study Assistant
-AI-powered learning platform that helps students with:
+### 🤖 AI Study Assistant
+
+AI-powered learning platform designed to improve student productivity and learning experience.
+
+**Key Features**
 - Smart Question Answering
 - AI Notes Generation
 - Learning Assistance
 - Modern Responsive UI
 
-🔗 Live Demo:
+🔗 Live Demo  
 https://ai-study-assistant-eight-psi.vercel.app
 
-🔗 GitHub:
+🔗 GitHub Repository  
 https://github.com/kartikshukla2301-eng/ai-study-assistant
 
 ---
 
-### Ultra AI Chatbot
+### 💬 Ultra AI Chatbot
 
-Desktop AI chatbot built using Python.
+Desktop AI chatbot built using Python with a modern user interface.
 
-Features:
-- Modern UI
+**Key Features**
 - Conversational AI
-- Desktop Application
+- Modern Desktop UI
+- Intelligent Responses
 
-🔗 GitHub:
+🔗 GitHub Repository  
 https://github.com/kartikshukla2301-eng/UltraAi-Chatbot
 
 ---
 
 ## 📊 GitHub Stats
 
-Building consistently and learning every day.
+![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikshukla2301-eng&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikshukla2301-eng&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=kartikshukla2301-eng&theme=tokyonight)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=kartikshukla2301-eng&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
 ## 🤝 Connect With Me
 
-LinkedIn:
+💼 LinkedIn  
 https://linkedin.com/in/kartik-shukla-cse
 
-GitHub:
+💻 GitHub  
 https://github.com/kartikshukla2301-eng
 
 ---
-⭐ Always learning. Always building.
+
+⭐ Always Learning • Always Building • Always Improving
