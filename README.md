@@ -1,129 +1,201 @@
 # 🌌 Kartik Shukla
-### **AI Engineer & Full Stack Developer**
-#### *Building Intelligent Systems & High-Performance Web Architectures*
+
+### AI Developer • Full Stack Developer • Generative AI Enthusiast
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=450&lines=AI+Agent+Architect;Full+Stack+Engineer;Generative+AI+Developer;Cloud+%26+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;Full+Stack+Web+Developer;Exploring+Generative+AI+%26+AI+Agents;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 </p>
+
 <p align="center">
-  <a href="https://linkedin.com/in/kartik-shukla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kartikshukla.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://twitter.com/kartik_shukla"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://kartikshukla.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/kartik-shukla-cse">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kartikshukla2301@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kartikshukla2301-eng">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
 ---
-### 🚀 About Me
-I am a forward-thinking **AI Engineer** and **Full Stack Developer** focused on creating robust, scalable, and intelligent applications. As a Computer Science Engineering student, I combine academic rigor with practical development experience. My primary focus lies at the intersection of **Generative AI (LLMs, Vector Databases, and Multi-Agent Workflows)** and **Modern Web Architectures (FastAPI, Next.js, and Distributed Databases)**.
-* 💡 **Core Mission:** Bridging the gap between cognitive AI intelligence and highly responsive, user-centric web applications.
-* 📍 **Location:** Lucknow, India (Open to global remote opportunities & relocation).
-* 👔 **Goal:** Securing high-impact internships and collaborating on cutting-edge AI or full-stack initiatives.
+
+## 🚀 About Me
+
+I'm a Computer Science Engineering student passionate about building real-world applications using Artificial Intelligence and Full Stack Development.
+
+My focus is on creating AI-powered products that improve productivity, learning experiences, and developer workflows.
+
+- 🎓 B.Tech Computer Science Engineering Student
+- 🤖 Exploring Generative AI & AI Agents
+- 💻 Full Stack Developer
+- 🌱 Currently learning FastAPI, Next.js & PostgreSQL
+- 🚀 Building AI-powered applications
+- 📍 Lucknow, India
+- 🎯 Seeking opportunities in AI and Software Development
+
 ---
-### 🛠️ Tech Stack & Tooling
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>🤖 Artificial Intelligence & GenAI</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
-      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-      <img src="https://img.shields.io/badge/Pinecone-1C1C1C?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>💻 Frontend Engineering</h4>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>⚙️ Backend & Databases</h4>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/SQLAlchemy-D71F27?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>🛠️ Cloud & Infrastructure</h4>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-    </td>
-  </tr>
-</table>
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### AI & Cloud
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
+![AWS Basics](https://img.shields.io/badge/AWS_Basics-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 ---
-### 📂 Featured Projects
-#### 1. 🎓 **AI Study Assistant**
-*An intelligent, multi-agent academic platform that revolutionizes the way students consume, synthesize, and test themselves on complex materials.*
-* **Core Functionality:** Processes textbooks, lecture notes, and PDFs to generate interactive semantic search indices, automated dynamic flashcards, and personalized retrieval-augmented learning paths.
-* **Architecture:** Implements a RAG (Retrieval-Augmented Generation) pipeline using FastAPI, Next.js, LangChain, and PostgreSQL.
-* **Highlight:** Utilizes hybrid vector-lexical search to achieve 95% accuracy in context-specific study recommendations.
-* **Tech Stack:** `FastAPI` | `Next.js` | `LangChain` | `PostgreSQL` | `Pinecone` | `TypeScript`
-#### 2. ⚡ **Ultra AI Chatbot**
-*A premium, high-concurrency conversational interface designed for low-latency tool execution and advanced state management.*
-* **Core Functionality:** Supports dynamic schema-based tool calling (web searching, math parsing, calendar booking) with asynchronous stream handling and multi-session persistence.
-* **Architecture:** Scaled backend logic utilizing Python and FastAPI with Redis caching to support concurrent real-time web-socket streams.
-* **Highlight:** Implemented custom sliding-window token memory to optimize LLM context usage and lower compute costs by 30%.
-* **Tech Stack:** `Python` | `FastAPI` | `Next.js` | `Redis` | `OpenAI API` | `Tailwind CSS`
+
+## 🚀 Featured Projects
+
+### 🎓 AI Study Assistant
+
+AI-powered learning platform designed to improve student productivity and learning experience.
+
+#### Features
+
+- Smart Question Answering
+- AI Notes Generation
+- Learning Assistance
+- Responsive User Interface
+
+#### Links
+
+🔗 Live Demo  
+https://ai-study-assistant-eight-psi.vercel.app
+
+🔗 Repository  
+https://github.com/kartikshukla2301-eng/ai-study-assistant
+
 ---
-### 🎯 Current Focus & Horizon
-* 🧠 **AI Agents:** Designing autonomous agent frameworks utilizing memory persistence structures (LangGraph, AutoGen).
-* 🗄️ **Advanced Databases:** Master-replica replication, query optimization, and connection pooling in PostgreSQL.
-* ⚡ **Performance Optimization:** Edge computing, server-side rendering patterns, and caching mechanics with Redis.
+
+### 🤖 Ultra AI Chatbot
+
+Desktop AI chatbot built using Python with a modern interface.
+
+#### Features
+
+- Conversational AI
+- Intelligent Responses
+- Modern Desktop UI
+
+#### Repository
+
+🔗 GitHub  
+https://github.com/kartikshukla2301-eng/UltraAi-Chatbot
+
 ---
-### 🗺️ Engineering Roadmap
-```mermaid
-gantt
-    title Engineering Skill Acquisition Roadmap
-    dateFormat  YYYY-MM
-    section AI Engineering
-    LangGraph & Agentic Frameworks  :active, 2026-05, 2026-08
-    Vector Database Sharding & Scaling :2026-08, 2026-10
-    Model Fine-Tuning (LoRA/QLoRA) :2026-10, 2026-12
-    section Full Stack
-    Next.js App Router Optimization :active, 2026-05, 2026-07
-    Distributed System Design       :2026-07, 2026-09
-    gRPC & Message Queues (RabbitMQ):2026-09, 2026-11
-    section Cloud & DevOps
-    Dockerization & Local Orchestration :active, 2026-06, 2026-07
-    CI/CD Pipelines (GitHub Actions)    :2026-07, 2026-09
-    Kubernetes & Cloud Deployments (AWS):2026-09, 2026-12
+
+## 🎯 Current Focus
+
+- Generative AI
+- AI Agents
+- FastAPI
+- Next.js
+- PostgreSQL
+- System Design
+- Cloud Fundamentals
+
+---
+
+## 📈 Learning Roadmap
+
+```text
+AI Engineering
+├── Prompt Engineering
+├── RAG Systems
+├── AI Agents
+└── LLM Applications
+
+Full Stack Development
+├── Next.js
+├── FastAPI
+├── PostgreSQL
+└── Scalable Web Apps
+
+Cloud & DevOps
+├── AWS Fundamentals
+├── Docker
+├── CI/CD
+└── Deployment Workflows
 ```
+
 ---
-### 🏛️ Developer Philosophy
-> *"Code is not just instructions for a CPU; it is the blueprint of user experience and system reliability. I write code that is clean, self-documenting, and designed for change, keeping developer velocity and runtime performance in perpetual equilibrium."*
----
-### 📊 GitHub Diagnostics & Statistics
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=kartik-shukla&show_icons=true&theme=tokyonight&count_private=true" alt="Kartik's GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-shukla&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-shukla&theme=tokyonight" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kartik-shukla&theme=tokyonight&column=7&margin-w=15" alt="Trophies" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kartikshukla2301-eng&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikshukla2301-eng&layout=compact&theme=tokyonight" />
 </p>
----
-### 🤝 Open Source & Community Engagement
-* **Active Contributor:** Enthusiastic about contributing to GenAI SDKs, FastAPI ecosystems, and Next.js libraries.
-* **Technical Writing:** Occasional writer on Medium/Dev.to sharing deep dives into RAG implementation details and Next.js rendering cycles.
-* **Collaborations:** Always looking to team up with engineers, researchers, and designers. If you have an exciting idea or code base, let's connect!
----
+
 <p align="center">
-  <i>"Simplicity is the ultimate sophistication."</i> — Leonardo da Vinci
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikshukla2301-eng&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kartikshukla2301-eng&theme=tokyonight&column=7&margin-w=15" />
+</p>
+
+---
+
+## 🏆 Highlights
+
+- 🚀 Built and deployed AI-powered applications
+- 🤖 Exploring Generative AI and AI Agents
+- 🌐 Experience deploying projects on Vercel
+- 💻 Building real-world software projects
+- 📚 Continuous learner and problem solver
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/kartik-shukla-cse">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:kartikshukla2301@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/kartikshukla2301-eng">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+⭐ Building • Learning • Improving
 </p>
