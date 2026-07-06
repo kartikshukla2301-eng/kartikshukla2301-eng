@@ -1,0 +1,63 @@
+name: 📡 Generate GitHub Metrics
+
+# ──────────────────────────────────────────────────────────────
+# SETUP REQUIRED:
+# 1. Create a Personal Access Token (PAT) at:
+#    https://github.com/settings/tokens
+#    Required scopes: read:user, repo (public_repo is enough for public repos only)
+# 2. Add the PAT as a repository secret named METRICS_TOKEN at:
+#    https://github.com/kartikshukla2301-eng/kartikshukla2301-eng/settings/secrets/actions
+# ──────────────────────────────────────────────────────────────
+
+on:
+  schedule:
+    # Runs every Sunday at midnight UTC
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-metrics:
+    name: Generate Metrics SVG
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # ── Core config ──────────────────────────────────────
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: kartikshukla2301-eng
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          config_output: svg
+          filename: github-metrics.svg
+
+          # ── Languages plugin ─────────────────────────────────
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+          plugin_languages_categories: markup, programming
+
+          # ── Activity plugin ──────────────────────────────────
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_visibility: all
+
+          # ── Notable contributions plugin ─────────────────────
+          plugin_notable: yes
+          plugin_notable_repositories: yes
+
+          # ── Topics plugin ────────────────────────────────────
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: starred
+          plugin_topics_sort: stars
