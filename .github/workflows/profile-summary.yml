@@ -1,0 +1,52 @@
+name: 📋 Generate Profile Summary Cards
+
+# ──────────────────────────────────────────────────────────────
+# SETUP REQUIRED:
+# This action requires a Personal Access Token (PAT) — NOT the
+# default GITHUB_TOKEN — to avoid "Resource not accessible by
+# integration" errors.
+#
+# 1. Create a PAT at: https://github.com/settings/tokens
+#    Required scopes: repo (to push the generated SVGs)
+# 2. Add it as a repository secret named SUMMARY_CARDS_TOKEN at:
+#    https://github.com/kartikshukla2301-eng/kartikshukla2301-eng/settings/secrets/actions
+#
+# Generated files are saved to: profile-summary-card-output/
+# The README uses the github-profile-summary-cards.vercel.app
+# Vercel API directly (works without this workflow). This workflow
+# creates locally-hosted backup copies for reliability.
+# ──────────────────────────────────────────────────────────────
+
+on:
+  schedule:
+    # Runs every Sunday at midnight UTC (same day as metrics.yml)
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-summary-cards:
+    name: Generate and Commit Summary Cards
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
+        with:
+          USERNAME: kartikshukla2301-eng
+
+      - name: Commit and push generated cards
+        uses: EndBug/add-and-commit@v10
+        with:
+          add: "profile-summary-card-output/"
+          message: "chore: refresh profile summary cards [skip ci]"
+          default_author: github_actions
+          push: true
