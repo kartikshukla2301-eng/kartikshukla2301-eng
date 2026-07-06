@@ -290,7 +290,7 @@ An AI platform that analyzes GitHub profiles, resumes, and project history to ge
 
 <!-- Update the username in the URL below to your actual LeetCode username if it differs from your GitHub username -->
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/kartikshukla2301-eng?theme=dark&font=Baloo_2&extension=heatmap" alt="LeetCode Stats" width="500"/>
+  <img src="https://leetcard.jacoblin.cool/cdlPAR9B41?theme=dark&font=Baloo_2&extension=heatmap" alt="LeetCode Stats" width="500"/>
 </div>
 
 ---
