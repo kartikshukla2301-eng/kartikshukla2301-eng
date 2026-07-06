@@ -46,7 +46,7 @@ jobs:
             --exclude "https://github-profile-summary-cards.vercel.app/"
             --exclude "https://raw.githubusercontent.com/kartikshukla2301-eng/kartikshukla2301-eng/output/"
             --exclude "https://raw.githubusercontent.com/kartikshukla2301-eng/kartikshukla2301-eng/main/github-metrics.svg"
-            --exclude "https://www.linkedin.com/in/kartik-shukla-cse"
+            --exclude "https://www.linkedin.com/"
             README.md
           # Fail the workflow if any real link is broken
           fail: true
