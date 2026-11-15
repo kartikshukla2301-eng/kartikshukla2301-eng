@@ -1,256 +1,210 @@
 <div align="center">
 
-<img src="assets/hero-banner.webp" alt="Kartik Shukla — Software Engineer · Full Stack Developer · AI Engineer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20&text=Kartik%20Shukla&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Healthcare%20%2B%20AI%20Systems&descSize=20&descAlignY=58&animation=fadeIn" alt="Kartik Shukla — Full Stack Developer" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1200&color=6366F1&center=true&vCenter=true&width=680&lines=Building+production-grade+full-stack+%2B+AI+systems;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Flask+%C2%B7+PostgreSQL;Integrating+LLMs%3A+Gemini+%C2%B7+OpenAI+%C2%B7+RAG;Open+to+Software+Engineering+Internships+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=Shipping+production+features+at+Pristyn+Care+%26+OnCare;React+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+FastAPI+%C2%B7+PostgreSQL;RAG+%C2%B7+OCR+%C2%B7+LLM+integrations;200%2B+DSA+problems+solved;Open+to+Software+Engineering+opportunities" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://kartik-portfolio-chi-eight.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-shukla-cse)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikshukla2301@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kartikshukla2301-eng)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=kartikshukla2301-eng&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/kartikshukla2301-eng?style=for-the-badge&color=6366F1&logo=github&label=FOLLOWERS)
+<a href="https://kartik-portfolio-chi-eight.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kartik-shukla-cse"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kartikshukla2301@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/cdlPAR9B41"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<img src="https://komarev.com/ghpvc/?username=kartikshukla2301-eng&style=for-the-badge&color=7C3AED&label=VIEWS"/>
 
 </div>
 
 <br/>
 
-## Developer Snapshot
+## `~/about`
 
-```typescript
-const kartik: SoftwareEngineer = {
-  role        : "Full Stack Developer → AI Engineer",
-  location    : "Lucknow, India",
-  education   : "B.Tech CSE, AKTU (2023 – 2027) · CGPA 7.68/10",
-  building    : "DevLeveler — AI-driven developer scoring & career intelligence platform",
-  strengths   : ["Full Stack Engineering", "Backend & API Design", "LLM Integration"],
-  status      : "Open to Software Engineering / Full Stack / AI internships — 2026",
-};
+```bash
+kartik@github:~$ neofetch
+
+  ╭──────────────────────────────────────────────────────────╮
+  │  👤 Name       Kartik Shukla                             │
+  │  💼 Role       Full Stack Developer Intern @ OnCare      │
+  │  🏥 Before     Pristyn Care (Hospital Info. System)      │
+  │  🎓 Education  B.Tech CSE · AKTU · 2027 · CGPA 7.9       │
+  │  🧠 Focus      RBAC · REST APIs · PostgreSQL · RAG       │
+  │  🧩 DSA        200+ problems (LeetCode + GFG)            │
+  │  📍 Location   Lucknow, India                            │
+  ╰──────────────────────────────────────────────────────────╯
 ```
 
-I'm a Computer Science undergraduate who builds **complete, deployed software** — not tutorials. My work spans authenticated full-stack platforms, REST APIs, and LLM-integrated products, with a growing focus on AI agents and Retrieval-Augmented Generation. I care about what ships: authenticated, deployed, and actually used.
+> I build software that has to be **correct**: role-based access, audit trails, validated inputs, and real DB constraints. Production hospital systems by day, LLM-integrated products on the side.
 
 <br/>
 
-<div align="center">
-<img src="assets/dev-workspace.webp" alt="Kartik's engineering workspace" width="100%"/>
-</div>
-
-<br/>
-
-## Currently
+## `~/experience`
 
 <table>
 <tr>
-<td width="25%" align="center"><strong>🔭 Building</strong><br/><sub>DevLeveler — AI developer scoring platform</sub></td>
-<td width="25%" align="center"><strong>🌱 Learning</strong><br/><sub>AI Agents · RAG Pipelines · Docker</sub></td>
-<td width="25%" align="center"><strong>💼 Open To</strong><br/><sub>SWE / Full Stack / AI internships</sub></td>
-<td width="25%" align="center"><strong>💬 Ask Me</strong><br/><sub>React, Node.js, Flask, LLM integration</sub></td>
+<td width="33%" valign="top">
+
+**🩺 OnCare Cancer Centre**
+*Full Stack Intern · Oct 2026 – Now*
+
+- Redesigned Raise PO form, wired to backend API
+- Built CMS-driven homepage (banners, stats, FAQs, GTM tags)
+- Shared header/footer components
+
+</td>
+<td width="33%" valign="top">
+
+**🏥 Pristyn Care**
+*Full Stack Intern · Aug – Oct 2026*
+
+- Expense Management: audit trail, hospital isolation, **15/15 security tests**
+- PostgreSQL reporting authorized by real user→hospital mappings
+- IT Asset Dashboard replacing Excel (RBAC, QR/barcode)
+- MRD module · **3 merged PRs** · Docker + AWS
+
+</td>
+<td width="33%" valign="top">
+
+**🐍 The Developers Arena**
+*Python Intern · Jul – Oct 2026*
+
+- 12 approved assignments (Python, OOP, Flask, testing, Docker/CI-CD)
+- A+ evaluation, 95% attendance *(provider-reported)*
+
+</td>
 </tr>
 </table>
 
 <br/>
 
-## Featured Projects
+## `~/projects`
 
-<img src="assets/devleveler-banner.webp" alt="DevLeveler" width="100%"/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🧭 DevLeveler <sub>· Flagship · In Development</sub>
-**AI-Powered Developer Intelligence Platform** — analyzes GitHub activity, resumes, and project history to generate XP-based developer scores and personalized, AI-driven career roadmaps.
+### 🧭 DevLeveler
+*AI developer-intelligence platform*
 
-**Key Features:** GitHub activity analysis · XP scoring engine · RAG-based career advisor · ATS resume analysis
-**Stack:** `Next.js` `FastAPI` `OpenAI` `RAG` `PostgreSQL` `Docker`
-[![Status](https://img.shields.io/badge/Status-In%20Development-F59E0B?style=flat-square)](https://github.com/kartikshukla2301-eng)
+GitHub activity + resume → **XP scores**, RAG career advisor, ATS analyzer, skill-gap roadmaps.
 
-<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,fastapi,postgres,docker&theme=dark"/>
 
-<img src="assets/study-assistant-banner.webp" alt="AI Study Assistant" width="100%"/>
+<!-- TODO: real repo + demo URLs -->
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/kartikshukla2301-eng?tab=repositories)
+![Status](https://img.shields.io/badge/In_Development-F59E0B?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 📤 AI CSV Importer · GrowEasy CRM
+*Template-free CSV → CRM schema mapping*
+
+LLM column mapping, Zod validation, concurrent batches, **SSE progress**, prompt-injection safeguards.
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,express&theme=dark"/>
+
+<!-- TODO: real repo + demo URLs -->
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/kartikshukla2301-eng?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📚 AI Study Assistant
-**OCR + LLM-Powered Learning Platform** — 8,000+ line full-stack PWA that turns scanned or photographed study material into structured, queryable knowledge via OCR and LLMs.
+*OCR + LLM study platform (PWA)*
 
-**Key Features:** OCR PDF pipeline · 10+ AI features (chat, notes, exam kit) · JWT + Google OAuth · mobile-first PWA
-**Stack:** `React 19` `Vite` `Node.js` `Express.js` `MongoDB Atlas` `OpenAI / Gemini`
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/kartikshukla2301-eng/ai-study-assistant)
+FastAPI + pytesseract OCR pipeline, seven study modes, JWT + Google OAuth.
+
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,mongodb,fastapi&theme=dark"/>
+
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/kartikshukla2301-eng/ai-study-assistant)
 [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://ai-study-assistant-eight-psi.vercel.app)
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-<img src="assets/hairdrama-banner.webp" alt="Hairdrama Task Manager" width="100%"/>
+### 📋 Hairdrama Task Manager
+*Role-based team task platform*
 
-### 📋 Hairdrama — Task Manager
-**Production Full-Stack Task Management Platform** — team-oriented task manager built with a Flask API backend and Next.js frontend, deployed with a full role-based auth stack.
+Google OAuth 2.0, task assignment/tracking, automated email notifications.
 
-**Key Features:** Google OAuth 2.0 · role-based task assignment & tracking · automated email notifications · Supabase PostgreSQL
-**Stack:** `Next.js` `TypeScript` `Flask` `PostgreSQL` `Supabase` `Resend`
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/kartikshukla2301-eng/Hairdrama-Task-Manager)
+<img src="https://skillicons.dev/icons?i=nextjs,ts,flask,supabase&theme=dark"/>
+
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/kartikshukla2301-eng/Hairdrama-Task-Manager)
 [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://hairdrama-task-manager-coral.vercel.app/)
 
-<br/>
-
-<img src="assets/harmonyhub-banner.webp" alt="Harmony Hub" width="100%"/>
-
-### 💬 Harmony Hub
-**Real-Time Cross-Platform Messaging Backend** — Python WebSocket server enabling low-latency, bidirectional messaging with concurrent session handling across cross-platform clients.
-
-**Key Features:** Modular connection/routing/logic separation · concurrent session handling · Flutter client support
-**Stack:** `Python` `WebSockets` `Flutter`
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/kartikshukla2301-eng)
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📤 CSV Importer
-Backend service that parses, validates, cleans, and ingests large CSV datasets with schema validation and duplicate detection.
-
-**Stack:** `Python` `Flask` `PostgreSQL` `REST APIs`
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/kartikshukla2301-eng)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Ultra AI Chatbot
-Local-first desktop conversational assistant with a native GUI, persistent context, and OS-level task automation.
-
-**Stack:** `Python` `Gemini API` `Tkinter` `PyInstaller`
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/kartikshukla2301-eng/UltraAi-Chatbot)
-
 </td>
 </tr>
 </table>
 
+<sub>Also: **Harmony Hub** (Python WebSocket messaging backend) · **Ultra AI Chatbot** ([code](https://github.com/kartikshukla2301-eng/UltraAi-Chatbot))</sub>
+
 <br/>
 
-## Tech Stack
+## `~/stack`
 
 <div align="center">
-<img src="assets/tech-stack.webp" alt="Tech stack" width="100%"/>
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,html,css&theme=dark"/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark"/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark"/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark"/><br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel&theme=dark"/>
+
 </div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+<sub>**Security:** JWT · Google OAuth 2.0 · RBAC · Zod &nbsp;|&nbsp; **AI:** OpenAI · OpenRouter · RAG · OCR/PDF · Prompt Engineering</sub>
 
 <br/>
 
-## Experience
-
-| Role | Details |
-|---|---|
-| **IoT Intern — Infosys Makers Lab** | 4-week hands-on internship (Jun–Jul 2026): microcontroller programming, sensor integration, and wireless communication with Arduino UNO / ESP32; built automation and access-control systems using relays, ultrasonic sensors, and HuskyLens face recognition |
-| **Social Media Head — IEEE Student Branch** | Led digital outreach and cross-functional promotion of technical events for the student community |
-
-<br/>
-
-## Certifications
-
-<table>
-<tr>
-<td width="50%">🍃 <strong>MongoDB: Core Concepts & Architecture</strong><br/><sub>MongoDB (Credly) · 2026</sub></td>
-<td width="50%">💻 <strong>Full Stack Web Development Workshop</strong><br/><sub>SoftPro India · 2025</sub></td>
-</tr>
-<tr>
-<td width="50%">🤖 <strong>Claude Code: The Coding Assistant</strong><br/><sub>Analytics Vidhya · 2026</sub></td>
-<td width="50%">☁️ <strong>Generative AI with AWS</strong><br/><sub>Analytics Vidhya · 2026</sub></td>
-</tr>
-</table>
-
-<br/>
-
-## GitHub Analytics
+## `~/stats`
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=kartikshukla2301-eng&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&ring_color=6366F1"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikshukla2301-eng&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9"/>
 
-<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kartikshukla2301-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikshukla2301-eng&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA" alt="Top languages"/>
 
-<img width="68%" src="https://streak-stats.demolab.com?user=kartikshukla2301-eng&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6366F1&sideLabels=8b949e&dates=8b949e"/>
-</div>
+<img src="https://streak-stats.demolab.com?user=kartikshukla2301-eng&theme=tokyonight&hide_border=true&background=0d1117" alt="Contribution streak" width="70%"/>
 
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikshukla2301-eng&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" width="97%"/>
 
-## LeetCode
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/cdlPAR9B41?theme=dark&font=Baloo_2&extension=heatmap" alt="LeetCode Stats" width="500"/>
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
+<img src="https://leetcard.jacoblin.cool/cdlPAR9B41?theme=dark&font=Baloo_2&extension=heatmap" alt="LeetCode stats" width="500"/>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/kartikshukla2301-eng/kartikshukla2301-eng/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/kartikshukla2301-eng/kartikshukla2301-eng/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/kartikshukla2301-eng/kartikshukla2301-eng/output/github-contribution-grid-snake-dark.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartikshukla2301-eng/kartikshukla2301-eng/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartikshukla2301-eng/kartikshukla2301-eng/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/kartikshukla2301-eng/kartikshukla2301-eng/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
-## Contribution Graph
+<br/>
 
-<div align="center">
-  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=kartikshukla2301-eng&bg_color=0d1117&color=6366F1&line=6366F1&point=c9d1d9&area=true&area_color=1e1b4b&hide_border=true&theme=tokyo-night"/>
-</div>
+## `~/certs`
+
+![MongoDB](https://img.shields.io/badge/MongoDB_Core_Concepts_%26_Architecture-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS GenAI](https://img.shields.io/badge/Generative_AI_with_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full_Stack_Web_Dev_Workshop-7C3AED?style=flat-square)
+![IEEE](https://img.shields.io/badge/Social_Media_Head_·_IEEE_SB_AIMT-00629B?style=flat-square&logo=ieee&logoColor=white)
 
 <br/>
 
+## `~/now`
 
+`🔭 OnCare healthcare dashboard` · `🌱 AI agents · RAG · Docker & CI/CD` · `💼 Open to SWE opportunities`
 
-## Let's Connect
-
-<div align="center">
-
-Open to conversations about **internship opportunities**, **AI collaborations**, and interesting engineering problems.
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-shukla-cse)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikshukla2301@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://kartik-portfolio-chi-eight.vercel.app)
-
-**📍 Lucknow, India · 🕐 IST (UTC+5:30) · Available for 2026 Internships**
-
-*"Turning ideas into scalable, intelligent software — one commit at a time."*
-
-</div>
+<br/>
 
 <div align="center">
-<img src="assets/footer-banner.webp" alt="" width="100%"/>
+
+<a href="https://www.linkedin.com/in/kartik-shukla-cse"><img src="https://img.shields.io/badge/Let's_Talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:kartikshukla2301@gmail.com"><img src="https://img.shields.io/badge/Drop_a_Mail-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+*Build things that hold up in production.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%" alt=""/>
+
 </div>
